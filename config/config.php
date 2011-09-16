@@ -3,7 +3,6 @@
 
 	Blackjacks Main Config file v1.0
 	
-
 */
 
 	$config = array();
@@ -24,3 +23,4 @@
 	$config['card_class'] = "bj_card";
 	
 	$config['base_url'] = "http://localhost:8888/blackjack/";
+	

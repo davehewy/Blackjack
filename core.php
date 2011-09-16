@@ -41,6 +41,10 @@
  
  class Db{
  
+ 	function connect(){
+ 		
+ 	}
+ 
 	function query($query){
 		$this->current_query = mysql_query($query);
 		if(mysql_errno()){
